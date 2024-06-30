@@ -2,7 +2,7 @@
 ContentView.swift
 War Card Game
 
-Created by Fionn Spencer on 28/6/24.
+//Created by Fionn Spencer on 28/6/24.
 
 */
 import SwiftUI
